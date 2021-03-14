@@ -16,4 +16,4 @@ Do you have feedback, ideas, questions, or feature requests for GSA APIs?  Use [
 
 ## Find Us
 
-A workspace for acquisition professionals and federal buyers to connect with resources, tools and each other to improve acquisition government-wide. [ACQUISITION GATEWAY] https://hallways.cap.gsa.gov/app/#/
+A workspace for acquisition professionals and federal buyers to connect with resources, tools and each other to improve acquisition government-wide. [ACQUISITION GATEWAY](https://hallways.cap.gsa.gov/app/#/).
