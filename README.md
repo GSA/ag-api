@@ -1,5 +1,4 @@
 # GSA AG-APIs
-========
 
 Acquisition Gateway Public API
 
